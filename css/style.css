@@ -1,0 +1,31 @@
+.label {
+  width: 120px;
+}
+
+h3 {
+  margin: 8px 0px 25px 8px;
+}
+
+.file-head {
+  font-weight: bold;
+}
+
+.file-row div {
+  padding-left: 4px;
+  float: left;
+  width: 170px;
+}
+
+.lnk {
+  color: #000000;
+  text-decoration: underline;
+}
+
+.comment span {
+  font-style: italic;
+  font-size: 11px;
+}
+
+.clr {
+  clear: both;
+}
